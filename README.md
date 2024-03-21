@@ -1,4 +1,4 @@
-Pokedex Casera en WindowsForm
+Pokedex Casera en WindowsForm con Persistencia de Datos
 
 Listado con Filtrado
 ![image](https://github.com/lubari/PokemonsDB/assets/48427687/28994050-17ba-44e5-bbf3-1cfe8dddda95)
